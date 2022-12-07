@@ -13,7 +13,7 @@ I have knowledge and skills in the following areas Frontend development, UX/UI d
 * JavaScript
 * jQuery/WordPress (superficial knowledge)
 * Firebase
-* Figma/Sketch/PS/UX UI design
+* Figma/Sketch/PS/UX UI design  
 ### EXPERIENCE 
 #### Trainee, Educational Center for Programming and High Tech(IT Academy)
 _Project role:_ Frontend Developer   
